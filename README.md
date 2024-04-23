@@ -6,6 +6,7 @@
 - 🔥 We provide the official ollama model for the 8bit-quantized GGUF version of Llama3-8B-Chinese-Chat at [wangshenzhi/llama3-8b-chinese-chat-ollama-q8](https://ollama.com/wangshenzhi/llama3-8b-chinese-chat-ollama-q8)! Run the following command for quick use of this model: `ollama run wangshenzhi/llama3-8b-chinese-chat-ollama-q8`.
 - 🔥 We provide the official FP16 GGUF version of Llama3-8B-Chinese-Chat at [shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-fp16](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-fp16)!
 - 🔥 We provide the official 8bit-quantized GGUF version of Llama3-8B-Chinese-Chat at [shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-8bit](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-8bit)!
+- 🌟 If you are in China, you can download our model from our [Gitee AI repository](https://ai.gitee.com/hf-models/shenzhi-wang/Llama3-8B-Chinese-Chat).
 
 ## 1. Introduction
 
