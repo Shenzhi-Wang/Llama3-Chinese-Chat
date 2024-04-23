@@ -1,4 +1,4 @@
-# Llama3-8B-Chinese-Chat
+# Llama3-Chinese-Chat
 
 ## Updates:
 
