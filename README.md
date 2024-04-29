@@ -13,7 +13,7 @@
 
 The following are updates for [Llama3-8B-Chinese-Chat-v1](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat/tree/v1):
 
-- 🔥 We provide the official Ollama model for the f16 GGUF version of Llama3-8B-Chinese-Chat-**v1** at [wangshenzhi/llama3-8b-chinese-chat-ollama-f16](https://ollama.com/wangshenzhi/llama3-8b-chinese-chat-ollama-f16)! Run the following command for quick use of this model: `ollama run wangshenzhi/llama3-8b-chinese-chat-ollama-fp16`.
+- 🔥 We provide the official Ollama model for the f16 GGUF version of Llama3-8B-Chinese-Chat-**v1** at [wangshenzhi/llama3-8b-chinese-chat-ollama-f16](https://ollama.com/wangshenzhi/llama3-8b-chinese-chat-ollama-fp16)! Run the following command for quick use of this model: `ollama run wangshenzhi/llama3-8b-chinese-chat-ollama-fp16`.
 - 🔥 We provide the official Ollama model for the 8bit-quantized GGUF version of Llama3-8B-Chinese-Chat-**v1** at [wangshenzhi/llama3-8b-chinese-chat-ollama-q8](https://ollama.com/wangshenzhi/llama3-8b-chinese-chat-ollama-q8)! Run the following command for quick use of this model: `ollama run wangshenzhi/llama3-8b-chinese-chat-ollama-q8`.
 - 🔥 We provide the official f16 GGUF version of Llama3-8B-Chinese-Chat-**v1** at [shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-f16-v1](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-f16/tree/v1)!
 - 🔥 We provide the official 8bit-quantized GGUF version of Llama3-8B-Chinese-Chat-**v1** at [shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-8bit-v1](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-8bit/tree/v1)!
