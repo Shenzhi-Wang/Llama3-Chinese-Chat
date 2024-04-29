@@ -97,7 +97,7 @@ We provide various versions of our Llama3-8B-Chinese-Chat model, including:
 
 - **To use the GGUF version of our Llama3-8B-Chinese-Chat model**
 
-  First, download the [8bit-quantized GGUF model](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-8bit) or [FP16 GGUF model](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-fp16) to your local machine.
+  First, download the [8bit-quantized GGUF model](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-8bit/tree/v1) or [f16 GGUF model](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-f16/tree/v1) to your local machine.
 
   Then, run the following python script:
 
