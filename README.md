@@ -1,6 +1,6 @@
 # Llama3-Chinese-Chat
 
-❗️❗️❗️NOTICE: The main branch contains the files for Llama3-8B-Chinese-Chat-**v2**, if you want to use our Llama3-8B-Chinese-Chat-**v1**, please refer to [the `v1` branch](https://github.com/Shenzhi-Wang/Llama3-Chinese-Chat/tree/v1).
+❗️❗️❗️NOTICE: The main branch contains the instructions for Llama3-8B-Chinese-Chat-**v2**, if you want to use or reproduce our Llama3-8B-Chinese-Chat-**v1**, please refer to [the `v1` branch](https://github.com/Shenzhi-Wang/Llama3-Chinese-Chat/tree/v1).
 
 
 # Updates
