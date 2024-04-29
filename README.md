@@ -4,8 +4,8 @@
 
 - 🔥 We provide the official ollama model for the FP16 GGUF version of Llama3-8B-Chinese-Chat at [wangshenzhi/llama3-8b-chinese-chat-ollama-fp16](https://ollama.com/wangshenzhi/llama3-8b-chinese-chat-ollama-fp16)! Run the following command for quick use of this model: `ollama run wangshenzhi/llama3-8b-chinese-chat-ollama-fp16`.
 - 🔥 We provide the official ollama model for the 8bit-quantized GGUF version of Llama3-8B-Chinese-Chat at [wangshenzhi/llama3-8b-chinese-chat-ollama-q8](https://ollama.com/wangshenzhi/llama3-8b-chinese-chat-ollama-q8)! Run the following command for quick use of this model: `ollama run wangshenzhi/llama3-8b-chinese-chat-ollama-q8`.
-- 🔥 We provide the official FP16 GGUF version of Llama3-8B-Chinese-Chat at [shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-fp16](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-fp16)!
-- 🔥 We provide the official 8bit-quantized GGUF version of Llama3-8B-Chinese-Chat at [shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-8bit](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-8bit)!
+- 🔥 We provide the official FP16 GGUF version of Llama3-8B-Chinese-Chat at [shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-fp16](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-f16/tree/v1)!
+- 🔥 We provide the official 8bit-quantized GGUF version of Llama3-8B-Chinese-Chat at [shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-8bit](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-8bit/tree/v1)!
 - 🌟 If you are in China, you can download our model from our [Gitee AI repository](https://ai.gitee.com/hf-models/shenzhi-wang/Llama3-8B-Chinese-Chat).
 
 ## 1. Introduction
@@ -25,17 +25,17 @@ We provide various versions of our Llama3-8B-Chinese-Chat model, including:
 
 - **Llama3-8B-Chinese-Chat (BF16).**  
 
-  You can download it from [this huggingface repo](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat). 
+  You can download it from [this huggingface repo](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat/tree/v1). 
 
   **❗️NOTICE:** Please ensure that you are using a model version after the commit id d96a030dcd8a9143e217cfd77fec6228e69c07c3. Versions prior to this commit id contain bugs resulting from oversight during uploading models, for which we sincerely apologize.
 
 - **Llama3-8B-Chinese-Chat (8bit-quantized GGUF).** 
 
-  You can download it from [this huggingface repo](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-8bit).
+  You can download it from [this huggingface repo](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-8bit/tree/v1).
 
 - **Llama3-8B-Chinese-Chat (FP16 GGUF).** 
 
-  You can download it from [this huggingface repo](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-fp16).
+  You can download it from [this huggingface repo](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-f16/tree/v1).
 
 - **Llama3-8B-Chinese-Chat (Ollama model for 8bit-quantized GGUF).** 
 
