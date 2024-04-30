@@ -8,7 +8,7 @@
 - 🔥 We provide the official f16 GGUF version of Llama3-8B-Chinese-Chat-**v2** at [shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-f16](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-f16)!
 - 🔥 We provide the official 8bit-quantized GGUF version of Llama3-8B-Chinese-Chat-**v2** at [shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-8bit](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-8bit)!
 - 🔥 We provide an online interactive demo for Llama3-8B-Chinese-Chat-v2 [here](https://huggingface.co/spaces/llamafactory/Llama3-8B-Chinese-Chat). Have fun with our latest model!
-- 🚀🚀🚀 [Apr. 29, 2024] We now introduce Llama3-8B-Chinese-Chat-**v2**! Compared to v1, the training dataset of v2 is **5x larger** (~100K preference pairs), and it exhibits significant enhancements, especially in **roleplay**, **function calling**, and **math** capabilities! The training dataset of Llama3-8B-Chinese-Chat-v2 will be released soon. If you love our Llama3-8B-Chinese-Chat-v1, you won't want to miss out on Llama3-8B-Chinese-Chat-v2!
+- 🚀🚀🚀 [Apr. 29, 2024] We now introduce [Llama3-8B-Chinese-Chat-**v2**](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat)! Compared to v1, the training dataset of v2 is **5x larger** (~100K preference pairs), and it exhibits significant enhancements, especially in **roleplay**, **function calling**, and **math** capabilities! The training dataset of Llama3-8B-Chinese-Chat-v2 will be released soon. If you love our Llama3-8B-Chinese-Chat-v1, you won't want to miss out on Llama3-8B-Chinese-Chat-v2!
 
 
 The following are updates for [Llama3-8B-Chinese-Chat-v1](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat/tree/v1):
