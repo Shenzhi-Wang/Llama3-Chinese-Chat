@@ -5,16 +5,16 @@
 
 # Updates
 
-- 🔥 We provide the official f16 GGUF version of Llama3-8B-Chinese-Chat-**v2** at [shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-f16](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-f16)!
-- 🔥 We provide the official 8bit-quantized GGUF version of Llama3-8B-Chinese-Chat-**v2** at [shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-8bit](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-8bit)!
-- 🔥 We provide an online interactive demo for Llama3-8B-Chinese-Chat-v2 [here](https://huggingface.co/spaces/llamafactory/Llama3-8B-Chinese-Chat). Have fun with our latest model!
-- 🚀🚀🚀 [Apr. 29, 2024] We now introduce [Llama3-8B-Chinese-Chat-**v2**](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat)! Compared to v1, the training dataset of v2 is **5x larger** (~100K preference pairs), and it exhibits significant enhancements, especially in **roleplay**, **function calling**, and **math** capabilities! The training dataset of Llama3-8B-Chinese-Chat-v2 will be released soon. If you love our Llama3-8B-Chinese-Chat-v1, you won't want to miss out on Llama3-8B-Chinese-Chat-v2!
+- 🔥 We provide the official f16 GGUF version of Llama3-8B-Chinese-Chat-**v2** at [shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-f16](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-f16/tree/v2)!
+- 🔥 We provide the official 8bit-quantized GGUF version of Llama3-8B-Chinese-Chat-**v2** at [shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-8bit](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-8bit/tree/v2)!
+- 🚀🚀🚀 [Apr. 29, 2024] We now introduce [Llama3-8B-Chinese-Chat-**v2**](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat/tree/v2)! Compared to v1, the training dataset of v2 is **5x larger** (~100K preference pairs), and it exhibits significant enhancements, especially in **roleplay**, **function calling**, and **math** capabilities! The training dataset of Llama3-8B-Chinese-Chat-v2 will be released soon. If you love our Llama3-8B-Chinese-Chat-v1, you won't want to miss out on Llama3-8B-Chinese-Chat-v2!
+- 🌟 If you are in China, you can download our **v2** model from https://hf-mirror.com/shenzhi-wang/Llama3-8B-Chinese-Chat/tree/v2.
 
 
 The following are updates for [Llama3-8B-Chinese-Chat-v1](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat/tree/v1):
 
-- 🔥 We provide the official Ollama model for the f16 GGUF version of Llama3-8B-Chinese-Chat-**v1** at [wangshenzhi/llama3-8b-chinese-chat-ollama-f16](https://ollama.com/wangshenzhi/llama3-8b-chinese-chat-ollama-fp16)! Run the following command for quick use of this model: `ollama run wangshenzhi/llama3-8b-chinese-chat-ollama-fp16`.
-- 🔥 We provide the official Ollama model for the 8bit-quantized GGUF version of Llama3-8B-Chinese-Chat-**v1** at [wangshenzhi/llama3-8b-chinese-chat-ollama-q8](https://ollama.com/wangshenzhi/llama3-8b-chinese-chat-ollama-q8)! Run the following command for quick use of this model: `ollama run wangshenzhi/llama3-8b-chinese-chat-ollama-q8`.
+- 🔥 We provide the official Ollama model for the f16 GGUF version of Llama3-8B-Chinese-Chat-**v1** at [wangshenzhi/llama3-8b-chinese-chat-ollama-f16](https://ollama.com/wangshenzhi/llama3-8b-chinese-chat-ollama-fp16)! Run the following command for quick use of this model: `ollama run wangshenzhi/llama3-8b-chinese-chat-ollama-fp16:v1`.
+- 🔥 We provide the official Ollama model for the 8bit-quantized GGUF version of Llama3-8B-Chinese-Chat-**v1** at [wangshenzhi/llama3-8b-chinese-chat-ollama-q8](https://ollama.com/wangshenzhi/llama3-8b-chinese-chat-ollama-q8)! Run the following command for quick use of this model: `ollama run wangshenzhi/llama3-8b-chinese-chat-ollama-q8:v1`.
 - 🔥 We provide the official f16 GGUF version of Llama3-8B-Chinese-Chat-**v1** at [shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-f16-v1](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-f16/tree/v1)!
 - 🔥 We provide the official 8bit-quantized GGUF version of Llama3-8B-Chinese-Chat-**v1** at [shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-8bit-v1](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-8bit/tree/v1)!
 - 🌟 If you are in China, you can download our **v1** model from our [Gitee AI repository](https://ai.gitee.com/hf-models/shenzhi-wang/Llama3-8B-Chinese-Chat).
@@ -49,15 +49,15 @@ We provide various versions of our Llama3-8B-Chinese-Chat model, including:
 
 - **Llama3-8B-Chinese-Chat (BF16).**  
 
-  You can download it from [this huggingface repo](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat). 
+  You can download it from [this huggingface repo](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat/tree/v2). 
 
 - **Llama3-8B-Chinese-Chat (8bit-quantized GGUF).** 
 
-  You can download it from [this huggingface repo](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-8bit).
+  You can download it from [this huggingface repo](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-8bit/tree/v2).
 
 - **Llama3-8B-Chinese-Chat (f16 GGUF).** 
 
-  You can download it from [this huggingface repo](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-f16).
+  You can download it from [this huggingface repo](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-f16/tree/v2).
 
 
 ## 3. Usage
@@ -69,7 +69,7 @@ We provide various versions of our Llama3-8B-Chinese-Chat model, including:
   ```python
   from transformers import AutoTokenizer, AutoModelForCausalLM
   
-  model_id = "shenzhi-wang/Llama3-8B-Chinese-Chat"
+  model_id = "shenzhi-wang/Llama3-8B-Chinese-Chat:v2"
   
   tokenizer = AutoTokenizer.from_pretrained(model_id)
   model = AutoModelForCausalLM.from_pretrained(
@@ -77,8 +77,8 @@ We provide various versions of our Llama3-8B-Chinese-Chat model, including:
   )
   
   messages = [
-      {"role": "system", "content": "You are Llama3-8B-Chinese-Chat-v2, which is finetuned on Llama3-8B-Instruct with Chinese-English mixed data by the ORPO alignment algorithm. You are a helpful assistant."},
-      {"role": "user", "content": "介绍一下你自己"},
+      {"role": "system", "content": "You are a helpful assistant."},
+      {"role": "user", "content": "写一首诗吧"},
   ]
   
   input_ids = tokenizer.apply_chat_template(
@@ -98,7 +98,7 @@ We provide various versions of our Llama3-8B-Chinese-Chat model, including:
 
 - **To use the GGUF version of our Llama3-8B-Chinese-Chat model**
 
-  First, download the [8bit-quantized GGUF model](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-8bit) or [f16 GGUF model](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-f16) to your local machine.
+  First, download the [8bit-quantized GGUF model](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-8bit/tree/v2) or [f16 GGUF model](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat-GGUF-f16/tree/v2) to your local machine.
 
   Then, run the following python script:
 
@@ -111,7 +111,7 @@ We provide various versions of our Llama3-8B-Chinese-Chat model, including:
       n_gpu_layers=-1,
   )
   
-  system_prompt = "You are Llama3-8B-Chinese-Chat-v2, which is finetuned on Llama3-8B-Instruct with Chinese-English mixed data by the ORPO alignment algorithm. You are a helpful assistant."
+  system_prompt = "You are a helpful assistant."
   
   def generate_reponse(_model, _messages, _max_tokens=8192):
       _output = _model.create_chat_completion(
@@ -128,7 +128,7 @@ We provide various versions of our Llama3-8B-Chinese-Chat model, including:
           "role": "system",
           "content": system_prompt,
       },
-      {"role": "user", "content": "介绍一下你自己"},
+      {"role": "user", "content": "写一首诗吧"},
   ]
   
   
