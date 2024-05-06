@@ -1,6 +1,6 @@
 # Llama3-Chinese-Chat
 
-❗️❗️❗️NOTICE: The main branch contains the instructions for Llama3-8B-Chinese-Chat-**v2.1**. If you want to use or reproduce our Llama3-8B-Chinese-Chat-**v1**, please refer to [the `v1` branch](https://github.com/Shenzhi-Wang/Llama3-Chinese-Chat/tree/v1); if you want to use or reproduce our Llama3-8B-Chinese-Chat-**v2**, please refer to [the `v2` branch](https://github.com/Shenzhi-Wang/Llama3-Chinese-Chat/tree/v2).
+❗️❗️❗️NOTICE: The main branch contains the instructions for [Llama3-8B-Chinese-Chat-**v2.1**](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat). If you want to use or reproduce our Llama3-8B-Chinese-Chat-**v1**, please refer to [the `v1` branch](https://github.com/Shenzhi-Wang/Llama3-Chinese-Chat/tree/v1); if you want to use or reproduce our Llama3-8B-Chinese-Chat-**v2**, please refer to [the `v2` branch](https://github.com/Shenzhi-Wang/Llama3-Chinese-Chat/tree/v2).
 
 ❗️❗️❗️NOTICE: For optimal performance, we refrain from fine-tuning the model's identity. Thus, inquiries such as "Who are you" or "Who developed you" may yield random responses that are not necessarily accurate. 
 
